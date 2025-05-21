@@ -29,7 +29,7 @@ int main() {
             printf("Pemasukan: %.2f\n", pemasukan);
             printf("Pengeluaran: %.2f\n", pengeluaran);
             printf("Sisa: %.2f\n", pemasukan - pengeluaran);
-            //Pilihan 4 agark kode program yang berjalan berhenti.
+            //Pilihan 4 agar kode program yang berjalan berhenti.
         } else if (pilihan == 4) {
             printf("Keluar...\n");
             //Apabila yang diinput bukan nomor yang ada dalam pilihan 
