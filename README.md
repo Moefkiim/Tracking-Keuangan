@@ -29,4 +29,4 @@ Fitur yang Tersedia dalam Program:
 - Operasi Aritmatika
 
 ## Link Video Demo
-https://youtu.be/69JvOo7OwLI
+https://youtu.be/LqexBt4L_DY
